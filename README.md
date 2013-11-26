@@ -1,0 +1,4 @@
+PySNTP
+======
+
+Python SNTMP Client
